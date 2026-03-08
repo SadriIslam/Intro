@@ -30,5 +30,5 @@ Kennesaw State University, United States.
 ---
 
 ### 🛠️ Technical Skills
-* **Languages:** Python, C++, MATLAB.
+* **Languages:** Python, C, MATLAB.
 * **AI/ML:** PyTorch, TensorFlow, Signal Processing
