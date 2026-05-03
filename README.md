@@ -12,7 +12,7 @@ Kennesaw State University, United States.
 
 ### 🎓 Education 
 Ph.D in Computer Science: Kennesaw State University, Georgia, United States ( Jan 2026- Present)
-* **Bachelor's in Electrical and Electronic Engineering:** Islamic University of Technology (IUT, OIC), Bangladesh. ( Jan 2020- June 2024)
+Bachelor's in Electrical and Electronic Engineering: Islamic University of Technology (IUT, OIC), Bangladesh. ( Jan 2020- June 2024)
 * ### 🎓 Undergrad Research & Publications
 * **Deep learning-based diagnostic framework for colorectal cancer using histopathological images**
   * *2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC),Fukoka,Japan*
